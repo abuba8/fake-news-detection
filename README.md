@@ -3,7 +3,7 @@ In this project, two objectives were achieved, the first objective this to inspe
 
 ## Results
 Name |	#Accuracy |	#Precision |	#Recall |	#F1-Score
-
+--- | --- | --- | --- |--- |--- 
 Unigram |	97.008 |	96.971 |	96.971 |	96.971
 --- | --- | --- | --- |--- |--- 
 Bigram |	96.909 |	96.745 |	97.172 |	96.887
